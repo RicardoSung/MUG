@@ -1,11 +1,13 @@
-# <center>MUG</center>
+# MUG
 
 **More Research More Water.**
 
 ## Features
-- [] Citation managment
-- [] Quick notes
-- [] LaTex Support
+- [ ] Citation managment
+- [ ] Quick notes
+- [ ] LaTex Support
 
+## State
+Still planning!
 
 
