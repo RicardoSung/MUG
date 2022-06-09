@@ -4,10 +4,12 @@ const createWindow = () => {
     const win = new BrowserWindow({
         width: 800,
         height: 600,
-        webPreferences:{nodeIntegration:true}
+        webPreferences:{nodeIntegration:true},
     })
 
     win.loadFile('index.html')
+
+    require('./main/menu.js')
 }
 
 app.whenReady().then(() => {

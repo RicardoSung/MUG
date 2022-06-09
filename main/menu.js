@@ -16,6 +16,21 @@ var template=[
         ]
     },
     {
-        label:'Edit'
+        label:'Edit',
+        submenu:[
+            {label:'Undo'},
+            {label:'Redo'},
+            {label:'Cut'},
+            {label:'Copy'},
+            {label:'Paste'},
+            {label:'Delete'},
+            {label:'Select All'},
+            {label:'Search'},
+            {label:'Advanced Search'},
+        ]
     }
 ]
+
+var m = Menu.buildFromTemplate(template)
+
+Menu.setApplicationMenu(m)
