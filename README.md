@@ -1,2 +1,2 @@
 # MUG
-More Research More Water.
+**More Research More Water.**
