@@ -3,7 +3,7 @@
 
 ---
 
-Language/语言: English | Chinese Simplified
+语言/語言/Language: [Chinese Simplified](./README.md) | [Chinese Traditional](./README-ZHT.md) | [English](README-EN.md)
 
 ---
 
