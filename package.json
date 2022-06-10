@@ -1,0 +1,25 @@
+{
+  "name": "mug",
+  "version": "0.0.1",
+  "description": "An all-in-one literature manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoSung/MUG.git"
+  },
+  "keywords": [
+    "literature-manager"
+  ],
+  "author": "Peter Gam",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/RicardoSung/MUG/issues"
+  },
+  "homepage": "https://github.com/RicardoSung/MUG#readme",
+  "devDependencies": {
+    "electron": "^19.0.4"
+  }
+}
