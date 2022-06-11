@@ -4,7 +4,7 @@
   "description": "a literature managment based on electron",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron . "
   },
   "author": "",
   "license": "GPL-3.0",
