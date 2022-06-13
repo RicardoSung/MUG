@@ -147,7 +147,7 @@ build MUG_autogen/timestamp MUG_autogen/mocs_compilation.cpp | ${cmake_ninja_wor
 #############################################
 # Phony custom command for CMakeFiles/MUG_autogen_timestamp_deps
 
-build CMakeFiles/MUG_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/MUG_autogen_timestamp_deps: phony /usr/lib/libQt6Core.so.6.3.0 /usr/lib/qt6/moc /usr/lib/qt6/uic /usr/lib/libQt6Widgets.so.6.3.0
+build CMakeFiles/MUG_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/MUG_autogen_timestamp_deps: phony /usr/lib/qt6/moc /usr/lib/libQt6Widgets.so.6.3.0 /usr/lib/qt6/uic /usr/lib/libQt6Core.so.6.3.0
 
 
 #############################################
