@@ -1,0 +1,10 @@
+# ninja log v5
+2	23	0	/home/peter/Documents/Programs/MUG/src/build-MUG-Desktop-Debug/CMakeFiles/cmake.verify_globs	15d51af82a07c11b
+23	306	1655105289230509762	MUG_autogen/timestamp	e004d0e2fd641551
+23	306	1655105289230509762	MUG_autogen/mocs_compilation.cpp	e004d0e2fd641551
+23	306	1655105289230509762	/home/peter/Documents/Programs/MUG/src/build-MUG-Desktop-Debug/MUG_autogen/timestamp	e004d0e2fd641551
+23	306	1655105289230509762	/home/peter/Documents/Programs/MUG/src/build-MUG-Desktop-Debug/MUG_autogen/mocs_compilation.cpp	e004d0e2fd641551
+306	1773	1655105290703860662	CMakeFiles/MUG.dir/MUG_autogen/mocs_compilation.cpp.o	349befb7e08a8fc7
+306	1803	1655105290733861019	CMakeFiles/MUG.dir/mainwindow.cpp.o	dce3f0fe79efeb37
+306	1826	1655105290750527885	CMakeFiles/MUG.dir/main.cpp.o	c24796bdc3d4b110
+1826	2113	1655105291043864714	MUG	c589b1abfabad220
