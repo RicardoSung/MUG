@@ -3,7 +3,7 @@
 
 ---
 
-**A research literature manager that hits the pain points.**
+**A research literature manager based on Qt that hits the pain points.**
 
 ### How MUG was created?
 The author group (Ricardo Sung and Peter Gam) were dissatisfied with the existing open source document management when they started graduate school, which is why MUG was formed. We want to make literature management as excellent as possible and open source, so that you may increase the efficiency of your literature reading and administration even more.
