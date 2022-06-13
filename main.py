@@ -12,6 +12,9 @@ from kivymd.uix.screen import MDScreen
 from kivymd.uix.button import MDFlatButton
 from kivymd.uix.dialog import MDDialog
 
+from file import file_init
+
+
 
 # class ExtendedButton(
 #     RoundedRectangularElevationBehavior, MDFillRoundFlatIconButton
@@ -80,7 +83,7 @@ class MUG(MDApp):
 
 
 
-
+file_init()
 MUG().run()
 
 
