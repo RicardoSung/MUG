@@ -1,5 +1,0 @@
-/home/peter/Documents/Programs/MUG/src/build-MUG-Desktop-Debug/CMakeFiles/MUG.dir
-/home/peter/Documents/Programs/MUG/src/build-MUG-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/peter/Documents/Programs/MUG/src/build-MUG-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/peter/Documents/Programs/MUG/src/build-MUG-Desktop-Debug/CMakeFiles/MUG_autogen_timestamp_deps.dir
-/home/peter/Documents/Programs/MUG/src/build-MUG-Desktop-Debug/CMakeFiles/MUG_autogen.dir
