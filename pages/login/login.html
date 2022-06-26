@@ -1,0 +1,21 @@
+<!--index.html-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link rel="stylesheet" href="login.css">
+</head>
+  <body>
+    <form class="login_box" action="login.html" method="post">
+        <h1>Welcome to MUG!</h1>
+        <h3>Please login to access more</h3>
+        <input type="email" class="input_box" id="account_input" placeholder="EMAIL">
+        <input type="text" class="input_box" id="password_input" placeholder="PASSWORD">
+        <input type="submit" class="submit_btn" id="submit_input" value="Sign in">
+        <div class="divider">OR</div>
+        <button class="without_login">Start without Login</button>
+    </form>
+    <script src="./login.js"></script>
+  </body>
+</html>
