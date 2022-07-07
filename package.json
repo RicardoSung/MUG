@@ -1,0 +1,19 @@
+{
+  "name": "mug",
+  "version": "1.0.0",
+  "description": "**MUG: Drinking water with mug during the research will Make Us Great again**",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoSung/MUG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoSung/MUG/issues"
+  },
+  "homepage": "https://github.com/RicardoSung/MUG#readme"
+}
